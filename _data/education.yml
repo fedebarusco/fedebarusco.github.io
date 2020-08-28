@@ -5,7 +5,9 @@
   quote: >
     Some quote
   description: | # this will include new lines to allow paragraphs
-    During my time at university I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at university I learnt most of my key skills that I have taken through my career, for this reason the study plan has been set up in order to deepen the areas related to algorithmic and modeling and the big data world. Other key skills that I've gained during the university are teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.  
+    Some projects I've worked on are: Parallel Fast Fourier Transform; Development and optimization of clustering algorithm and performance evaluation; Formulation of new market applications and innovative business ideas; Graphic audio player with 3D audio effects; Rank aggregation methods and evaluation.  
+    Graduation thesis: "Venture Capital Investing: Analysis with data analytics and machine learning tools"
 
 - layout: left
   name: University of Padua
