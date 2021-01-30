@@ -11,3 +11,13 @@
     I have carried out teaching activities to train customers’ staff to use the developed tools. In addition I have also carried out tech-discovery activities with the aim of developing partnerships with software vendors.  
     Some of the tools used so far are Hadoop, Hive, Apache Drill, Spark, StreamSets, MapR, Neo4j, Tableau, several programming languages such as Python, Java and JavaScript and query languages such as SQL and Cypher. 
     The participation in several training courses, both at home and in other countries, for the learning of data ingestion tools, datawarehouse and new data analytics frameworks have allowed me to acquire considerable practical know-how in the construction of ETL processes, data warehousing and data analytics.
+
+- layout: left
+  company: REM Electra
+  link: remelectra.it/en/
+  job_title: Computer Engineering Internship
+  dates: October 2015 - December 2015
+  quote: >
+   Some quote
+  description: | # this will include new lines to allow paragraphs
+    Description
